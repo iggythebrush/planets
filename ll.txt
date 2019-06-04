@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x 3 lbonivento lbonivento 4096 Jun  4 16:16 ./
+drwxrwxr-x 3 lbonivento lbonivento 4096 Jun  4 16:15 ../
+drwxrwxr-x 8 lbonivento lbonivento 4096 Jun  4 16:15 .git/
+-rw-rw-r-- 1 lbonivento lbonivento    0 Jun  4 16:16 ll.txt
+-rw-rw-r-- 1 lbonivento lbonivento  135 Jun  4 16:16 mars.txt
+-rw-rw-r-- 1 lbonivento lbonivento   11 Jun  4 16:15 venus.txt
